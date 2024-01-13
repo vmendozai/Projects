@@ -1,2 +1,2 @@
-# Proyectos
-Proyectos realizados durante mi carrera de ingeniería matemática
+# Projects
+Projects carried out during my mathematical engineering career
